@@ -18,4 +18,4 @@ status: released
 
 ### Atomicity of Remote Service Calls
 
-### Asynchronous Execution Application Logic
+### Asynchronous Execution of Application Logic
