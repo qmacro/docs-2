@@ -18,4 +18,6 @@ status: released
 
 ### Atomicity of Remote Service Calls
 
+Example: https://sap.stackenterprise.co/questions/51864/52038#52038
+
 ### Asynchronous Execution of Application Logic
