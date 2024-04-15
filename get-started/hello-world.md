@@ -23,6 +23,7 @@ Let's create a simple _Hello World_ OData service using the SAP Cloud Applicatio
 </div>
 
 <ImplVariantsHint />
+<NotebookHint />
 
 ## Create a Project
 

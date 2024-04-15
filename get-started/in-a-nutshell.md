@@ -74,7 +74,7 @@ Note: When comparing the code from the *cap/samples* on GitHub to the snippets g
 
 
 <ImplVariantsHint />
-
+<NotebookHint />
 
 [[toc]]
 
